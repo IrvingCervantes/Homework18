@@ -1,0 +1,14 @@
+
+
+.flexContainer
+
+div {
+    display: flex;
+    width: 33%;
+    flex-direction: column;
+}
+
+.workGrid {
+    display: grid;
+}
+
